@@ -1,4 +1,4 @@
-gm.mslc;
+package com.mslc;
 
 import static org.junit.Assert.assertEquals;
 
