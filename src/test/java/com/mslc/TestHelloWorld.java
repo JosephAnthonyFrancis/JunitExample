@@ -1,4 +1,4 @@
-ge com.mslc;
+gm.mslc;
 
 import static org.junit.Assert.assertEquals;
 
@@ -19,7 +19,7 @@ public class TestHelloWorld {
 	   public void testHelloEmpty() 
 	   {
 	      assertEquals(h.getName(),"");
-	      assertEquals(h.getMessage(),"World!");
+	      assertEquals(h.getMessage(),"Hello!");
 	   }
 		
 	   @Test
